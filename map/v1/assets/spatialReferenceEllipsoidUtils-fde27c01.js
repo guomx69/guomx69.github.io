@@ -1,1 +1,0 @@
-import{bN as a,io as r,ip as t,iq as c,ir as f,ib as w,bq as i,ic as b}from"./index-646a7cf7.js";const m=new a(r),n=new a(t),o=new a(c);new a(f);function q(s){return s&&(w(s)||i(s,n))?n:s&&(b(s)||i(s,o))?o:m}export{q as c};
